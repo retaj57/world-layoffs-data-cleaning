@@ -38,6 +38,7 @@ Used self-joins to populate missing industry values where possible.
 
 Removed helper columns after transformation.
 
+
 📊 Exploratory Data Analysis
 
 Performed structured analysis on the cleaned dataset:
@@ -53,6 +54,7 @@ Stage-based layoffs distribution
 Monthly layoffs aggregation
 
 Rolling cumulative totals using window functions
+
 
 🧠 SQL Concepts Applied
 
@@ -70,6 +72,7 @@ Date functions
 
 Data normalization techniques
 
+
 🏗 Data Engineering Relevance
 
 This project simulates core components of an ETL workflow:
@@ -81,6 +84,7 @@ Transforming and standardizing data
 Cleaning inconsistencies
 
 Preparing structured datasets for analytics
+
 
 💻 Tools Used
 
