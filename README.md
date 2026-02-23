@@ -1,4 +1,5 @@
 🌍 World Layoffs Data Cleaning & Analysis (MySQL)
+
 📌 Project Overview
 
 This project demonstrates a complete SQL-based data cleaning and transformation workflow using a real-world layoffs dataset.
